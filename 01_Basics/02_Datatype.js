@@ -22,3 +22,5 @@ let isLogedIn = true // boolean
 
    console.log(typeof "sakshi");
    console.log("name");
+
+   
