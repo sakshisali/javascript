@@ -18,3 +18,7 @@
 ( (name) => {
     console.log(`sakshi, ${name}`)
 })('vishakha')
+
+(function chaicode(){
+    console.log(`sakshi`)
+})();
